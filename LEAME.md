@@ -28,16 +28,16 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
  Hubot es un marco para construir bots de chat, modelado a partir del bot Campfire de GitHub del mismo nombre, hubot.
  Él es genial.  Es [ampliable con scripts](http://hubot.github.com/docs/#scripts) y puede trabajar
- en [muchos servicios de chat diferentes] (https://hubot.github.com/docs/adapters/).
+ en [muchos servicios de chat diferentes](https://hubot.github.com/docs/adapters/).
 
  Este repositorio proporciona una biblioteca distribuida por `npm` que usted
- utilizar para construir sus propios bots.  Consulte la [documentación] (http://hubot.github.com/docs)
+ utilizar para construir sus propios bots.  Consulte la [documentación](http://hubot.github.com/docs)
  para obtener detalles sobre cómo comenzar a trabajar con su propio amigo robot.
 
  En la mayoría de los casos, probablemente nunca tendrá que piratear este repositorio directamente si
  están construyendo su propio bot.  Pero si lo hace, consulte [CONTRIBUTING.md](CONTRIBUTING.md)
 
- Si desea chatear con los usuarios y desarrolladores de Hubot, [únase a nosotros en Slack] (https://hubot-slackin.herokuapp.com/).
+ Si desea chatear con los usuarios y desarrolladores de Hubot, [únase a nosotros en Slack](https://hubot-slackin.herokuapp.com/).
 
  ## Licencia
 
